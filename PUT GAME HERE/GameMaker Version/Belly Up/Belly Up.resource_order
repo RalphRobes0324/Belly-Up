@@ -35,6 +35,7 @@
     {"name":"spr_walls","order":1,"path":"sprites/spr_walls/spr_walls.yy",},
     {"name":"spr_bg2","order":3,"path":"sprites/spr_bg2/spr_bg2.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"obj_hook","order":9,"path":"objects/obj_hook/obj_hook.yy",},
     {"name":"spr_hook","order":15,"path":"sprites/spr_hook/spr_hook.yy",},
     {"name":"obj_clear","order":6,"path":"objects/obj_clear/obj_clear.yy",},
     {"name":"spr_spawner","order":9,"path":"sprites/spr_spawner/spr_spawner.yy",},

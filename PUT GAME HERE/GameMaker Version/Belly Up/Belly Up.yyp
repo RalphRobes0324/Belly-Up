@@ -56,6 +56,7 @@
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},},
     {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"obj_hook","path":"objects/obj_hook/obj_hook.yy",},},
     {"id":{"name":"spr_hook","path":"sprites/spr_hook/spr_hook.yy",},},
     {"id":{"name":"obj_clear","path":"objects/obj_clear/obj_clear.yy",},},
     {"id":{"name":"spr_spawner","path":"sprites/spr_spawner/spr_spawner.yy",},},
