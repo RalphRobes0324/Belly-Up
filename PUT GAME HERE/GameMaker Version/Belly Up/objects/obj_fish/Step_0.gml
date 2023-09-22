@@ -52,7 +52,6 @@ if(place_meeting(x+hsp,y,obj_wall)){
 		x = x + sign(hsp); //This will decrease or increase 
 	}
 	hsp = 0;
-
 }
 x = x + hsp;//This will move character horizontal
 
