@@ -30,6 +30,7 @@
     {"name":"spr_EnemyPufferFish","order":8,"path":"sprites/spr_EnemyPufferFish/spr_EnemyPufferFish.yy",},
     {"name":"obj_enemypufferfish","order":4,"path":"objects/obj_enemypufferfish/obj_enemypufferfish.yy",},
     {"name":"spr_bg3","order":4,"path":"sprites/spr_bg3/spr_bg3.yy",},
+    {"name":"Level2Room","order":2,"path":"rooms/Level2Room/Level2Room.yy",},
     {"name":"obj_deadfish","order":3,"path":"objects/obj_deadfish/obj_deadfish.yy",},
     {"name":"Level3Room","order":1,"path":"rooms/Level3Room/Level3Room.yy",},
     {"name":"obj_backWall","order":2,"path":"objects/obj_backWall/obj_backWall.yy",},
