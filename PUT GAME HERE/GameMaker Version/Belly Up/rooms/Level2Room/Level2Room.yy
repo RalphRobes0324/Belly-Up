@@ -18,6 +18,7 @@
     {"name":"inst_146D08DB","path":"rooms/Level2Room/Level2Room.yy",},
     {"name":"inst_67D0CBC9","path":"rooms/Level2Room/Level2Room.yy",},
     {"name":"inst_31542C13","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_4A06FCF","path":"rooms/Level2Room/Level2Room.yy",},
   ],
   "isDnd": false,
   "layers": [
