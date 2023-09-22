@@ -63,10 +63,10 @@
     {"id":{"name":"obj_obstacle_ground","path":"objects/obj_obstacle_ground/obj_obstacle_ground.yy",},},
     {"id":{"name":"spr_deadfish","path":"sprites/spr_deadfish/spr_deadfish.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
