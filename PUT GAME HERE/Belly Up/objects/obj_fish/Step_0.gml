@@ -78,6 +78,11 @@ if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
 	is_hurt = true;
 }
 
+/********************Hook and reef Collision**************/
+if(!is_hurt && place_meeting(x,y,obj_obstacle_ground)){
+	fishHealth = fishHealth - 1;
+	is_hurt = true;
+}
 
 /********************Backwall Collision**************/
 if(!is_hurtBackWall && place_meeting(x,y, obj_backWall)){
