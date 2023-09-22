@@ -41,6 +41,8 @@
     {"id":{"name":"spr_clear","path":"sprites/spr_clear/spr_clear.yy",},},
     {"id":{"name":"spr_reef_low","path":"sprites/spr_reef_low/spr_reef_low.yy",},},
     {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
+    {"id":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
+    {"id":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
     {"id":{"name":"obj_spawner_pufferfish","path":"objects/obj_spawner_pufferfish/obj_spawner_pufferfish.yy",},},
     {"id":{"name":"obj_controller_ground","path":"objects/obj_controller_ground/obj_controller_ground.yy",},},
     {"id":{"name":"spr_bg1","path":"sprites/spr_bg1/spr_bg1.yy",},},
@@ -52,6 +54,7 @@
     {"id":{"name":"obj_deadfish","path":"objects/obj_deadfish/obj_deadfish.yy",},},
     {"id":{"name":"sh_white","path":"shaders/sh_white/sh_white.yy",},},
     {"id":{"name":"spr_fish","path":"sprites/spr_fish/spr_fish.yy",},},
+    {"id":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
     {"id":{"name":"obj_backWall","path":"objects/obj_backWall/obj_backWall.yy",},},
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},},
     {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},},
@@ -67,6 +70,9 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Level1Romm","path":"rooms/Level1Romm/Level1Romm.yy",},},
+    {"roomId":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
+    {"roomId":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
+    {"roomId":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
