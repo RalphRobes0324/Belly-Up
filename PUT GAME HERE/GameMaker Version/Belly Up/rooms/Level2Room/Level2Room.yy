@@ -6,7 +6,23 @@
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
+<<<<<<< Updated upstream
   "instanceCreationOrder": [],
+=======
+  "instanceCreationOrder": [
+    {"name":"inst_7FAA1E63","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_47A855D2","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_40026B2B","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_79B6C64","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_46860BCB","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_5D099EFB","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_4F64DCF3","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_3980A80F","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_146D08DB","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_67D0CBC9","path":"rooms/Level2Room/Level2Room.yy",},
+    {"name":"inst_31542C13","path":"rooms/Level2Room/Level2Room.yy",},
+  ],
+>>>>>>> Stashed changes
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
