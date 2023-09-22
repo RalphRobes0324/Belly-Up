@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
@@ -66,10 +66,10 @@
     {"id":{"name":"obj_obstacle_ground","path":"objects/obj_obstacle_ground/obj_obstacle_ground.yy",},},
     {"id":{"name":"spr_deadfish","path":"sprites/spr_deadfish/spr_deadfish.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
-    {"id":{"name":"Level1Romm","path":"rooms/Level1Romm/Level1Romm.yy",},},
+    {"id":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Level1Romm","path":"rooms/Level1Romm/Level1Romm.yy",},},
+    {"roomId":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
     {"roomId":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
     {"roomId":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
     {"roomId":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
