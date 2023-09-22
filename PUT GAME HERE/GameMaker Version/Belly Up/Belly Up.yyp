@@ -45,6 +45,7 @@
     {"id":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
     {"id":{"name":"obj_spawner_pufferfish","path":"objects/obj_spawner_pufferfish/obj_spawner_pufferfish.yy",},},
     {"id":{"name":"obj_controller_ground","path":"objects/obj_controller_ground/obj_controller_ground.yy",},},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"spr_bg1","path":"sprites/spr_bg1/spr_bg1.yy",},},
     {"id":{"name":"spr_bgtemp","path":"sprites/spr_bgtemp/spr_bgtemp.yy",},},
     {"id":{"name":"tile_Main","path":"tilesets/tile_Main/tile_Main.yy",},},
@@ -70,10 +71,14 @@
     {"id":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
   ],
   "RoomOrderNodes": [
+<<<<<<< HEAD
+=======
+    {"roomId":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
+    {"roomId":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
+>>>>>>> a632ffc218f649a88e6dad0caa67509f91fb0ffa
     {"roomId":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
     {"roomId":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
     {"roomId":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
-    {"roomId":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

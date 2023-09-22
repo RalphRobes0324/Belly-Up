@@ -27,6 +27,7 @@
     {"name":"MainMenuRoom","order":3,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"obj_spawner_pufferfish","order":5,"path":"objects/obj_spawner_pufferfish/obj_spawner_pufferfish.yy",},
     {"name":"obj_controller_ground","order":8,"path":"objects/obj_controller_ground/obj_controller_ground.yy",},
+    {"name":"Sprite18","order":17,"path":"sprites/Sprite18/Sprite18.yy",},
     {"name":"spr_bg1","order":2,"path":"sprites/spr_bg1/spr_bg1.yy",},
     {"name":"spr_bgtemp","order":5,"path":"sprites/spr_bgtemp/spr_bgtemp.yy",},
     {"name":"spr_EnemyPufferFish","order":8,"path":"sprites/spr_EnemyPufferFish/spr_EnemyPufferFish.yy",},
