@@ -74,7 +74,7 @@ y = y + vsp;//This will move character vertical
 
 /********************Pufferfish Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
-	fishHealth = fishHealth - 1;
+	fishHealth -= 1;
 	is_hurt = true;
 }
 
