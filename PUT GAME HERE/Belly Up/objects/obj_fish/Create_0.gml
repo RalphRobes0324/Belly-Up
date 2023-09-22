@@ -19,7 +19,7 @@ knock_forward = 0.955;//amout of force will fish go forward
 
 //flags
 is_hurtBackWall = false; //status of player hitting back wall
-is_hurtPufferfish = false //status of plauer hitting back wall
+is_hurt = false //status of plauer hitting back wall
 fish_stamina_full = true ; //stamina status
 
 

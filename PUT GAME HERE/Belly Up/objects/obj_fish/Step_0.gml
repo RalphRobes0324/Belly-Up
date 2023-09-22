@@ -21,9 +21,9 @@ if(is_hurtBackWall == true){
 		is_hurtBackWall = false;
 	}
 }
-else if(is_hurtPufferfish == true){
+else if(is_hurt == true){
 	
-	is_hurtPufferfish = false;
+	is_hurt = false;
 	
 }
 else{
@@ -73,9 +73,9 @@ if(place_meeting(x,y+vsp,obj_wall)){
 y = y + vsp;//This will move character vertical
 
 /********************Pufferfish Collision**************/
-if(!is_hurtPufferfish && place_meeting(x,y,obj_enemypufferfish)){
+if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
 	fishHealth = fishHealth - 1;
-	is_hurtPufferfish = true;
+	is_hurt = true;
 }
 
 
