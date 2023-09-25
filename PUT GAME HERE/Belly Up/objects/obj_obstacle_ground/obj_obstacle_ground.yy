@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite17",
-    "path": "sprites/Sprite17/Sprite17.yy",
+    "name": "spr_spawner2",
+    "path": "sprites/spr_spawner2/spr_spawner2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

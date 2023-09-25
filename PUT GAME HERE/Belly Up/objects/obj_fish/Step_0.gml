@@ -1,6 +1,5 @@
 /// @description controls and bounderies
 // You can write your code in this editor
-
 /*******************Get player input**************/
 key_up =  keyboard_check(ord("W")); //Functions grabs activity of the "W" key from user keyboard
 key_down =  keyboard_check(ord("S")); //Functions grabs activity of the "S" key from user keyboard
@@ -22,7 +21,7 @@ if(is_hurtBackWall == true){
 }
 else if(is_hurt == true){
 	
-	health = fishHealth;
+	
 	is_hurt = false;
 	
 }
@@ -74,19 +73,19 @@ y = y + vsp;//This will move character vertical
 
 /********************Pufferfish Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
-	fishHealth--;
+	health--;
 	is_hurt = true;
 }
 
 /********************Hook and reef Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_obstacle_ground)){
-	fishHealth--;
+	health--;
 	is_hurt = true;
 }
 
 /********************Backwall Collision**************/
 if(!is_hurtBackWall && place_meeting(x,y, obj_backWall)){
-	fishHealth--;
+	health--;
 	is_hurtBackWall = true;
 	hsp = -hsp;
 }
