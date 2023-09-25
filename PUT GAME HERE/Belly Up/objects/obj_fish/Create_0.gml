@@ -12,7 +12,7 @@ hsp = 0; //Horizontal speed
 swimsp = 4; //swim speed
 fish_Velocity = 10; //speed
 
-health = 100; //health
+health = 20; //health
 flash = 0;  //frame counter when player have been hit
 
 knock_forward = 0.955;//amout of force will fish go forward
