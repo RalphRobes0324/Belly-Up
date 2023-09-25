@@ -18,7 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_spawner2","order":16,"path":"sprites/spr_spawner2/spr_spawner2.yy",},
-    {"name":"obj_displayInfo","order":9,"path":"objects/obj_displayInfo/obj_displayInfo.yy",},
+    {"name":"obj_displayhealth","order":9,"path":"objects/obj_displayhealth/obj_displayhealth.yy",},
     {"name":"spr_reef_mid","order":12,"path":"sprites/spr_reef_mid/spr_reef_mid.yy",},
     {"name":"spr_reef_high","order":14,"path":"sprites/spr_reef_high/spr_reef_high.yy",},
     {"name":"spr_tiles","order":11,"path":"sprites/spr_tiles/spr_tiles.yy",},

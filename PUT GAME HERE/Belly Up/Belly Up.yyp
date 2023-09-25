@@ -35,7 +35,7 @@
   },
   "resources": [
     {"id":{"name":"spr_spawner2","path":"sprites/spr_spawner2/spr_spawner2.yy",},},
-    {"id":{"name":"obj_displayInfo","path":"objects/obj_displayInfo/obj_displayInfo.yy",},},
+    {"id":{"name":"obj_displayhealth","path":"objects/obj_displayhealth/obj_displayhealth.yy",},},
     {"id":{"name":"spr_reef_mid","path":"sprites/spr_reef_mid/spr_reef_mid.yy",},},
     {"id":{"name":"spr_reef_high","path":"sprites/spr_reef_high/spr_reef_high.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
