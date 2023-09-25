@@ -2,7 +2,6 @@
 // You can write your code in this editor
 
 /*******************Get player input**************/
-
 key_up =  keyboard_check(ord("W")); //Functions grabs activity of the "W" key from user keyboard
 key_down =  keyboard_check(ord("S")); //Functions grabs activity of the "S" key from user keyboard
 key_left = keyboard_check(ord("A")); //Functions grabs activity of the "A" key from user keyboard
@@ -23,6 +22,7 @@ if(is_hurtBackWall == true){
 }
 else if(is_hurt == true){
 	
+	health = fishHealth;
 	is_hurt = false;
 	
 }
