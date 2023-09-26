@@ -40,7 +40,7 @@
     {"id":{"name":"spr_reef_high","path":"sprites/spr_reef_high/spr_reef_high.yy",},},
     {"id":{"name":"spr_timer","path":"sprites/spr_timer/spr_timer.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
-    {"id":{"name":"spr_display","path":"sprites/spr_display/spr_display.yy",},},
+    {"id":{"name":"spr_health","path":"sprites/spr_health/spr_health.yy",},},
     {"id":{"name":"spr_clear","path":"sprites/spr_clear/spr_clear.yy",},},
     {"id":{"name":"spr_reef_low","path":"sprites/spr_reef_low/spr_reef_low.yy",},},
     {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
