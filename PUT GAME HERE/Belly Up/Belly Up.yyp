@@ -45,7 +45,6 @@
     {"id":{"name":"obj_shake","path":"objects/obj_shake/obj_shake.yy",},},
     {"id":{"name":"spr_reef_low","path":"sprites/spr_reef_low/spr_reef_low.yy",},},
     {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
-    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"spr_shake","path":"sprites/spr_shake/spr_shake.yy",},},
     {"id":{"name":"obj_spawner_pufferfish","path":"objects/obj_spawner_pufferfish/obj_spawner_pufferfish.yy",},},
     {"id":{"name":"obj_controller_ground","path":"objects/obj_controller_ground/obj_controller_ground.yy",},},

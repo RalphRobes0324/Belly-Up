@@ -27,7 +27,6 @@
     {"name":"spr_clear","order":10,"path":"sprites/spr_clear/spr_clear.yy",},
     {"name":"obj_shake","order":11,"path":"objects/obj_shake/obj_shake.yy",},
     {"name":"spr_reef_low","order":13,"path":"sprites/spr_reef_low/spr_reef_low.yy",},
-    {"name":"Sprite18","order":16,"path":"sprites/Sprite18/Sprite18.yy",},
     {"name":"spr_shake","order":21,"path":"sprites/spr_shake/spr_shake.yy",},
     {"name":"obj_spawner_pufferfish","order":5,"path":"objects/obj_spawner_pufferfish/obj_spawner_pufferfish.yy",},
     {"name":"obj_controller_ground","order":8,"path":"objects/obj_controller_ground/obj_controller_ground.yy",},
