@@ -5,6 +5,7 @@
 if( mouse_x >= bbox_left && mouse_x <= bbox_right &&
 mouse_y >= bbox_top && mouse_y <= bbox_bottom) {
 	image_index = 1;
+	
 
 }
 else{
@@ -12,10 +13,11 @@ else{
 }
 
 if(mouse_check_button_pressed(mb_left)){
-		if( mouse_x >= bbox_left && mouse_x <= bbox_right &&
-		mouse_y >= bbox_top && mouse_y <= bbox_bottom) {
-			image_index = 2;
-			game_end();
+	audio_play_sound(snd_buttonClick, 0, false);
+	if( mouse_x >= bbox_left && mouse_x <= bbox_right &&
+	mouse_y >= bbox_top && mouse_y <= bbox_bottom) {
+		image_index = 2;
+		game_end();
 
 	}
 	

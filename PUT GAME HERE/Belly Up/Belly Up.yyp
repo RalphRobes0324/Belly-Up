@@ -62,6 +62,7 @@
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
     {"id":{"name":"spr_health","path":"sprites/spr_health/spr_health.yy",},},
     {"id":{"name":"spr_clear","path":"sprites/spr_clear/spr_clear.yy",},},
+    {"id":{"name":"snd_buttonClick","path":"sounds/snd_buttonClick/snd_buttonClick.yy",},},
     {"id":{"name":"obj_shake","path":"objects/obj_shake/obj_shake.yy",},},
     {"id":{"name":"spr_reef_low","path":"sprites/spr_reef_low/spr_reef_low.yy",},},
     {"id":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},},
