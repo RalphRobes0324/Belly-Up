@@ -1,4 +1,4 @@
-/// @description draw white flush effect
+/// @description draw white flash effect
 // You can write your code in this editor
 
 
