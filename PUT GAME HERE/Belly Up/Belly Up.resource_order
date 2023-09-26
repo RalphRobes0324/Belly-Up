@@ -30,6 +30,8 @@
     {"name":"Other Objects","order":16,"path":"folders/Objects/Other Objects.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_btn_quit","order":1,"path":"objects/obj_btn_quit/obj_btn_quit.yy",},
+    {"name":"spr_btn_quit","order":1,"path":"sprites/spr_btn_quit/spr_btn_quit.yy",},
     {"name":"spr_spawner2","order":4,"path":"sprites/spr_spawner2/spr_spawner2.yy",},
     {"name":"spr_reef_mid","order":2,"path":"sprites/spr_reef_mid/spr_reef_mid.yy",},
     {"name":"spr_bubbles","order":5,"path":"sprites/spr_bubbles/spr_bubbles.yy",},

@@ -47,6 +47,8 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"obj_btn_quit","path":"objects/obj_btn_quit/obj_btn_quit.yy",},},
+    {"id":{"name":"spr_btn_quit","path":"sprites/spr_btn_quit/spr_btn_quit.yy",},},
     {"id":{"name":"spr_spawner2","path":"sprites/spr_spawner2/spr_spawner2.yy",},},
     {"id":{"name":"obj_displayhealth","path":"objects/obj_displayhealth/obj_displayhealth.yy",},},
     {"id":{"name":"spr_reef_mid","path":"sprites/spr_reef_mid/spr_reef_mid.yy",},},
