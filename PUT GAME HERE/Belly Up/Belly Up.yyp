@@ -38,7 +38,7 @@
     {"id":{"name":"obj_displayhealth","path":"objects/obj_displayhealth/obj_displayhealth.yy",},},
     {"id":{"name":"spr_reef_mid","path":"sprites/spr_reef_mid/spr_reef_mid.yy",},},
     {"id":{"name":"spr_reef_high","path":"sprites/spr_reef_high/spr_reef_high.yy",},},
-    {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
+    {"id":{"name":"spr_timer","path":"sprites/spr_timer/spr_timer.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
     {"id":{"name":"spr_display","path":"sprites/spr_display/spr_display.yy",},},
     {"id":{"name":"spr_clear","path":"sprites/spr_clear/spr_clear.yy",},},

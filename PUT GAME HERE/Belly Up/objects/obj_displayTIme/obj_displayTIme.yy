@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite20",
-    "path": "sprites/Sprite20/Sprite20.yy",
+    "name": "spr_timer",
+    "path": "sprites/spr_timer/spr_timer.yy",
   },
   "spriteMaskId": null,
   "visible": true,

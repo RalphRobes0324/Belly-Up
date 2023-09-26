@@ -21,7 +21,7 @@
     {"name":"obj_displayhealth","order":9,"path":"objects/obj_displayhealth/obj_displayhealth.yy",},
     {"name":"spr_reef_mid","order":12,"path":"sprites/spr_reef_mid/spr_reef_mid.yy",},
     {"name":"spr_reef_high","order":14,"path":"sprites/spr_reef_high/spr_reef_high.yy",},
-    {"name":"Sprite20","order":19,"path":"sprites/Sprite20/Sprite20.yy",},
+    {"name":"spr_timer","order":19,"path":"sprites/spr_timer/spr_timer.yy",},
     {"name":"spr_tiles","order":11,"path":"sprites/spr_tiles/spr_tiles.yy",},
     {"name":"spr_display","order":18,"path":"sprites/spr_display/spr_display.yy",},
     {"name":"spr_clear","order":10,"path":"sprites/spr_clear/spr_clear.yy",},
