@@ -63,6 +63,7 @@
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},},
     {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"Bahn_font","path":"fonts/Bahn_font/Bahn_font.yy",},},
     {"id":{"name":"spr_hook","path":"sprites/spr_hook/spr_hook.yy",},},
     {"id":{"name":"obj_clear","path":"objects/obj_clear/obj_clear.yy",},},
     {"id":{"name":"obj_displayTIme","path":"objects/obj_displayTIme/obj_displayTIme.yy",},},

@@ -42,6 +42,7 @@
     {"name":"spr_walls","order":1,"path":"sprites/spr_walls/spr_walls.yy",},
     {"name":"spr_bg2","order":3,"path":"sprites/spr_bg2/spr_bg2.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"Bahn_font","order":20,"path":"fonts/Bahn_font/Bahn_font.yy",},
     {"name":"spr_hook","order":15,"path":"sprites/spr_hook/spr_hook.yy",},
     {"name":"obj_clear","order":6,"path":"objects/obj_clear/obj_clear.yy",},
     {"name":"obj_displayTIme","order":10,"path":"objects/obj_displayTIme/obj_displayTIme.yy",},

@@ -92,6 +92,8 @@
     {"name":"inst_69DDDF30","path":"rooms/Level1Room/Level1Room.yy",},
     {"name":"inst_76AC5A72","path":"rooms/Level1Room/Level1Room.yy",},
     {"name":"inst_239B8679","path":"rooms/Level1Room/Level1Room.yy",},
+    {"name":"inst_6E42BA1D","path":"rooms/Level1Room/Level1Room.yy",},
+    {"name":"inst_4F893FBA","path":"rooms/Level1Room/Level1Room.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -130,6 +132,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10812AF2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_clear","path":"objects/obj_clear/obj_clear.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-160.0,"y":-96.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_69DDDF30","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_controller_ground","path":"objects/obj_controller_ground/obj_controller_ground.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":-128.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_239B8679","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_displayhealth","path":"objects/obj_displayhealth/obj_displayhealth.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":-128.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6E42BA1D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_displayTIme","path":"objects/obj_displayTIme/obj_displayTIme.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":-128.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4F893FBA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_displayTIme","path":"objects/obj_displayTIme/obj_displayTIme.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":-128.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Sand","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":12,"SerialiseWidth":20,"TileCompressedData":[
 -200,-2147483648,22,2,3,4,5,6,7,8,9,2,3,4,5,6,7,8,9,2,
