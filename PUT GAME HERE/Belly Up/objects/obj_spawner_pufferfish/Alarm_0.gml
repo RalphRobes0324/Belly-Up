@@ -5,9 +5,9 @@
 /****************Puffer Fish time****************/
 spawn--;
 if(spawn <= 0){
-	spawn  = 2;
-	//speedMin += 0.5;
-	//speedMax += 0.5;
+	spawn  += 1;
+	//speedMin += 1.5;
+	//speedMax += 2.5;
 }
 
 var getX = room_width + 50 + random_range(0,75);
@@ -21,9 +21,10 @@ puffer_fish.direction = 180; //Direction Horizontal
 
 /****************Puffer Fish time****************/
 
-//var size = random_range(0.1, 1);
-//puffer_fish.image_xscale = size;
-//puffer_fish.image_yscale = size;
+//var xsize = random_range(0.1, 1);
+//var ysize = random_range(0.1, 2);
+//puffer_fish.image_xscale = xsize;
+//puffer_fish.image_yscale = ysize;
 
 
 alarm[0] = spawnTime;
