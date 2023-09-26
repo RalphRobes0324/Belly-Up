@@ -19,4 +19,4 @@ if(t_sec < 10){
 timer += "."
 timer += string(t_mil);
 
-draw_text(600,35,timer);
+draw_text(500,40,timer);
