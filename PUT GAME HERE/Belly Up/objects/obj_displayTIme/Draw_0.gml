@@ -2,6 +2,9 @@
 // You can write your code in this editor
 
 draw_set_colour(c_white);
+if(t_min < 1){//timer less then 1 min, change colour
+	draw_set_color(c_red);
+}
 draw_set_font(Bahn_font);
 //draw_set_halign(fa_top);
 //draw_set_valign(fa_top);
