@@ -119,8 +119,8 @@
   "lineHeight": 80,
   "maintainGms1Font": false,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Font",
+    "path": "folders/Sprites/Font.yy",
   },
   "pointRounding": 0,
   "ranges": [
