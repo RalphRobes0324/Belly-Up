@@ -22,5 +22,7 @@ is_hurtBackWall = false; //status of player hitting back wall
 is_hurt = false //status of plauer hitting back wall
 fish_stamina_full = true ; //stamina status
 
+camera_target = noone;
+
 
 

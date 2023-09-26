@@ -3,6 +3,7 @@
 
 with (other){ //This check for every individual wall if they have been hit, 				
 	flash = 3; //frames
+	
 }
 
 
