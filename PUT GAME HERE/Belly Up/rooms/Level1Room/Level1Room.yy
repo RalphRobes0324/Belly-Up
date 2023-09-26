@@ -191,8 +191,8 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"bg_sea","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":-3.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"spr_bgtemp","path":"sprites/spr_bgtemp/spr_bgtemp.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
-    "name": "Rooms",
-    "path": "folders/Rooms.yy",
+    "name": "Levels_room",
+    "path": "folders/Rooms/Levels_room.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
