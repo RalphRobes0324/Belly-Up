@@ -6,8 +6,8 @@
 spawn--;
 if(spawn <= 0){
 	spawn  = 2;
-	//speedMin += 1.5;
-	//speedMax += 2.5;
+	//speedMin += 0.5;
+	//speedMax += 0.5;
 }
 
 var getX = room_width + 50 + random_range(0,75);

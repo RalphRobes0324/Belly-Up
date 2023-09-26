@@ -37,7 +37,7 @@ switch (phase1.sprite_index){
 	
 }
 
-alarm[0] = room_speed * random_range(1/global.speedModifier, 3/global.speedModifier);// reset time but starts spawn new timer everytime
+//alarm[0] = room_speed * random_range(1/global.speedModifier, 3/global.speedModifier);// reset time but starts spawn new timer everytime
 
-
+alarm[0] = room_speed * random_range(1, 0.5);
 
