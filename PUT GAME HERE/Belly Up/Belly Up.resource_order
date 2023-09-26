@@ -15,6 +15,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"buttons","order":14,"path":"folders/Objects/buttons.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_spawner2","order":16,"path":"sprites/spr_spawner2/spr_spawner2.yy",},
@@ -58,7 +59,6 @@
     {"name":"spr_spawner","order":9,"path":"sprites/spr_spawner/spr_spawner.yy",},
     {"name":"spr_triggerBackWall","order":6,"path":"sprites/spr_triggerBackWall/spr_triggerBackWall.yy",},
     {"name":"obj_obstacle_ground","order":7,"path":"objects/obj_obstacle_ground/obj_obstacle_ground.yy",},
-    {"name":"obj_btn_start","order":13,"path":"objects/obj_btn_start/obj_btn_start.yy",},
     {"name":"spr_deadfish","order":7,"path":"sprites/spr_deadfish/spr_deadfish.yy",},
   ],
 }
