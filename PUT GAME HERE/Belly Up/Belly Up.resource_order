@@ -29,6 +29,7 @@
     {"name":"Wall Sprites","order":18,"path":"folders/Sprites/Wall Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Music Objects","order":17,"path":"folders/Objects/Music Objects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_btn_quit","order":1,"path":"objects/obj_btn_quit/obj_btn_quit.yy",},
@@ -51,6 +52,7 @@
     {"name":"spr_bgtemp","order":5,"path":"sprites/spr_bgtemp/spr_bgtemp.yy",},
     {"name":"Sprite25","order":16,"path":"sprites/Sprite25/Sprite25.yy",},
     {"name":"spr_EnemyPufferFish","order":1,"path":"sprites/spr_EnemyPufferFish/spr_EnemyPufferFish.yy",},
+    {"name":"spr_music_mainmenu","order":6,"path":"sprites/spr_music_mainmenu/spr_music_mainmenu.yy",},
     {"name":"spr_bg3","order":4,"path":"sprites/spr_bg3/spr_bg3.yy",},
     {"name":"Level2Room","order":1,"path":"rooms/Level2Room/Level2Room.yy",},
     {"name":"MainMenu","order":3,"path":"rooms/MainMenu/MainMenu.yy",},
