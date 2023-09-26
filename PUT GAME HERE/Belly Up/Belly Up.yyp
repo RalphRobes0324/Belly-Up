@@ -39,6 +39,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Button Sprite","folderPath":"folders/Sprites/Button Sprite.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Other Sprites","folderPath":"folders/Sprites/Other Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Other Objects","folderPath":"folders/Objects/Other Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Levels_room","folderPath":"folders/Rooms/Levels_room.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,

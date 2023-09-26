@@ -28,6 +28,7 @@
     {"name":"Button Sprite","order":19,"path":"folders/Sprites/Button Sprite.yy",},
     {"name":"Other Sprites","order":20,"path":"folders/Sprites/Other Sprites.yy",},
     {"name":"Other Objects","order":16,"path":"folders/Objects/Other Objects.yy",},
+    {"name":"Levels_room","order":4,"path":"folders/Rooms/Levels_room.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_btn_quit","order":1,"path":"objects/obj_btn_quit/obj_btn_quit.yy",},
