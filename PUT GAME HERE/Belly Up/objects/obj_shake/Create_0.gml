@@ -9,6 +9,6 @@ camera_posy = camera_get_view_y(camera);
 
 
 is_shaking = false;
-shake_amount = 5;
+shake_amount = 2;
 shake_timer = 0.1;
 
