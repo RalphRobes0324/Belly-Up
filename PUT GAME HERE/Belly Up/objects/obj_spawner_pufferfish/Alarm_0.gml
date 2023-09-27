@@ -5,7 +5,7 @@
 /****************Puffer Fish time****************/
 spawn--;
 if(spawn <= 0){
-	spawn  += 1;
+	spawn  = 2;
 	//speedMin += 1.5;
 	//speedMax += 2.5;
 }
