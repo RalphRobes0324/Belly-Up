@@ -19,6 +19,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Buttons Objects","folderPath":"folders/Objects/Buttons Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Display Objects","folderPath":"folders/Objects/Display Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Environment_and_Enemies Ojects","folderPath":"folders/Objects/Environment_and_Enemies Ojects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Music Objects","folderPath":"folders/Objects/Music Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Other Objects","folderPath":"folders/Objects/Other Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player Objects","folderPath":"folders/Objects/Player Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
@@ -40,13 +41,12 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Wall Sprites","folderPath":"folders/Sprites/Wall Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Music Objects","folderPath":"folders/Objects/Music Objects.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"obj_btn_quit","path":"objects/obj_btn_quit/obj_btn_quit.yy",},},
