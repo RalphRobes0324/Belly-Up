@@ -31,7 +31,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Main Menu","order":2,"path":"folders/Objects/Buttons Objects/Main Menu.yy",},
-    {"name":"group1","order":3,"path":"folders/Objects/Buttons Objects/group1.yy",},
+    {"name":"Pause Menu","order":3,"path":"folders/Objects/Buttons Objects/Pause Menu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_btn_quit","order":1,"path":"sprites/spr_btn_quit/spr_btn_quit.yy",},
@@ -40,6 +40,8 @@
     {"name":"spr_bubbles","order":5,"path":"sprites/spr_bubbles/spr_bubbles.yy",},
     {"name":"spr_managerbtn","order":1,"path":"sprites/spr_managerbtn/spr_managerbtn.yy",},
     {"name":"spr_bg_mainmenu_far","order":1,"path":"sprites/spr_bg_mainmenu_far/spr_bg_mainmenu_far.yy",},
+    {"name":"spr_pause_play","order":8,"path":"sprites/spr_pause_play/spr_pause_play.yy",},
+    {"name":"obj_pause_tranistion","order":1,"path":"objects/obj_pause_tranistion/obj_pause_tranistion.yy",},
     {"name":"spr_timer","order":5,"path":"sprites/spr_timer/spr_timer.yy",},
     {"name":"spr_tiles","order":3,"path":"sprites/spr_tiles/spr_tiles.yy",},
     {"name":"spr_clear","order":1,"path":"sprites/spr_clear/spr_clear.yy",},
