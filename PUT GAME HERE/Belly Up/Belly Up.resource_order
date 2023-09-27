@@ -60,6 +60,7 @@
     {"name":"MainMenu","order":3,"path":"rooms/MainMenu/MainMenu.yy",},
     {"name":"spr_fish","order":1,"path":"sprites/spr_fish/spr_fish.yy",},
     {"name":"Level3Room","order":2,"path":"rooms/Level3Room/Level3Room.yy",},
+    {"name":"spr_tranistion","order":7,"path":"sprites/spr_tranistion/spr_tranistion.yy",},
     {"name":"obj_backWall","order":4,"path":"objects/obj_backWall/obj_backWall.yy",},
     {"name":"spr_bg2","order":3,"path":"sprites/spr_bg2/spr_bg2.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
