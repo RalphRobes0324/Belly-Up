@@ -34,13 +34,13 @@ switch (phase1.sprite_index){
 	default:
 		phase1.image_speed = 1;// image speed
 		phase1.image_xscale = -1; //reverse image
-		phase1.y = 100;//image will be place at the top of the screen
+		phase1.y = 475;
 		
 	
 	
 }
 
-//alarm[0] = room_speed * random_range(1/global.speedModifier, 3/global.speedModifier);// reset time but starts spawn new timer everytime
+alarm[0] = room_speed * random_range(1/global.speedModifier, 3/global.speedModifier);// reset time but starts spawn new timer everytime
 
-alarm[0] = room_speed * random_range(0.5, 1);
+//alarm[0] = room_speed * random_range(0.5, 1);
 

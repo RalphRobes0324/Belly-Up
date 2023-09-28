@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_boot",
-    "path": "sprites/spr_boot/spr_boot.yy",
+    "name": "spr_tire",
+    "path": "sprites/spr_tire/spr_tire.yy",
   },
   "spriteMaskId": null,
   "visible": true,
