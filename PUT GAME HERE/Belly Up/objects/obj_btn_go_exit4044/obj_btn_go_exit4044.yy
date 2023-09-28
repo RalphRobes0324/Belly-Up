@@ -1,17 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_nl_drawtext",
+  "name": "obj_btn_go_exit4044",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Level1",
-    "path": "folders/Objects/Buttons Objects/VictoryMenu/Level1.yy",
+    "name": "Level3",
+    "path": "folders/Objects/Buttons Objects/VictoryMenu/Level3.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_btn_exit",
+    "path": "sprites/spr_btn_exit/spr_btn_exit.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
