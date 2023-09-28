@@ -55,6 +55,7 @@
     {"name":"spr_bgtemp","order":5,"path":"sprites/spr_bgtemp/spr_bgtemp.yy",},
     {"name":"snd_level1Room","order":2,"path":"sounds/snd_level1Room/snd_level1Room.yy",},
     {"name":"Sprite25","order":16,"path":"sprites/Sprite25/Sprite25.yy",},
+    {"name":"obj_btn_help","order":2,"path":"objects/obj_btn_help/obj_btn_help.yy",},
     {"name":"spr_EnemyPufferFish","order":1,"path":"sprites/spr_EnemyPufferFish/spr_EnemyPufferFish.yy",},
     {"name":"spr_music_mainmenu","order":6,"path":"sprites/spr_music_mainmenu/spr_music_mainmenu.yy",},
     {"name":"spr_bg3","order":4,"path":"sprites/spr_bg3/spr_bg3.yy",},
@@ -73,5 +74,6 @@
     {"name":"obj_music_level1room","order":1,"path":"objects/obj_music_level1room/obj_music_level1room.yy",},
     {"name":"obj_obstacle_ground","order":3,"path":"objects/obj_obstacle_ground/obj_obstacle_ground.yy",},
     {"name":"obj_btn_start","order":1,"path":"objects/obj_btn_start/obj_btn_start.yy",},
+    {"name":"HelpMenu","order":5,"path":"rooms/HelpMenu/HelpMenu.yy",},
   ],
 }
