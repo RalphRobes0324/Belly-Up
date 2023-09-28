@@ -34,7 +34,7 @@ switch (phase1.sprite_index){
 	default:
 		phase1.image_speed = 1;// image speed
 		phase1.image_xscale = -1; //reverse image
-		phase1.y = 475;
+		phase1.y = 435;
 		
 	
 	
