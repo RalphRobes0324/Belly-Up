@@ -4,7 +4,7 @@
   "name": "obj_clear",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_enemypufferfish","path":"objects/obj_enemypufferfish/obj_enemypufferfish.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_enemypufferfish34","path":"objects/obj_enemypufferfish34/obj_enemypufferfish34.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_boot","path":"objects/obj_boot/obj_boot.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

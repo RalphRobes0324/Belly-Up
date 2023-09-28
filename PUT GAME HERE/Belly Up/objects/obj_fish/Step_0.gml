@@ -76,6 +76,13 @@ if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
 	is_hurt = true;
 }
 
+/********************boot Collision**************/
+if(!is_hurt && place_meeting(x,y,obj_boot)){
+	audio_play_sound(snd_hurt, 0, false);
+	health--;
+	is_hurt = true;
+}
+
 /********************Hook and reef Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_obstacle_ground)){
 	audio_play_sound(snd_hurt, 0, false);

@@ -1,9 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemypufferfish34",
+  "name": "obj_obstacle_flood",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_fish","path":"objects/obj_fish/obj_fish.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -30,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_EnemyPufferFish",
-    "path": "sprites/spr_EnemyPufferFish/spr_EnemyPufferFish.yy",
+    "name": "spr_spawner2",
+    "path": "sprites/spr_spawner2/spr_spawner2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

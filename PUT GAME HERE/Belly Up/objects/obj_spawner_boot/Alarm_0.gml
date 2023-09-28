@@ -5,20 +5,18 @@
 /****************Puffer Fish time****************/
 spawn--;
 if(spawn <= 0){
-	spawn  = 1;
+	spawn  = 4;
+	
 	speedMin += 1.5;
 	speedMax += 2.5;
 }
 
 
-//var getX = room_width + 50 + random_range(0,75);
-//var getY = random_range(40, room_height - 150);
-
 var getX =  room_width + 50 + random_range(0,75);
-var getY = random_range(475, room_height - 50);  //random_range(100, room_height - 150);
+var getY = random_range(475, room_height - 50);  
 
-//Spawning puffer fish
-var puffer_fish = instance_create_layer(getX, getY, "Spawn", obj_enemypufferfish);
+//Spawning random Items
+var puffer_fish = instance_create_layer(getX, getY, "Spawn", obj_boot);
 puffer_fish.speed = random_range(speedMin, speedMax); //different speed coming in
 puffer_fish.direction = 180; //Direction Horizontal
 
