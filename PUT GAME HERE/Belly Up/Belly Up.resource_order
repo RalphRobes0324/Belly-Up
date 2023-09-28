@@ -118,6 +118,7 @@
     {"name":"spr_tranistion","order":7,"path":"sprites/spr_tranistion/spr_tranistion.yy",},
     {"name":"obj_backWall","order":4,"path":"objects/obj_backWall/obj_backWall.yy",},
     {"name":"obj_btn_exit47","order":1,"path":"objects/obj_btn_exit47/obj_btn_exit47.yy",},
+    {"name":"snd_level3","order":7,"path":"sounds/snd_level3/snd_level3.yy",},
     {"name":"spr_bg2","order":3,"path":"sprites/spr_bg2/spr_bg2.yy",},
     {"name":"snd_gameover","order":4,"path":"sounds/snd_gameover/snd_gameover.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
