@@ -116,6 +116,7 @@
     {"id":{"name":"snd_mainmenu","path":"sounds/snd_mainmenu/snd_mainmenu.yy",},},
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},},
     {"id":{"name":"spr_bg2","path":"sprites/spr_bg2/spr_bg2.yy",},},
+    {"id":{"name":"snd_gameover","path":"sounds/snd_gameover/snd_gameover.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Bahn_font","path":"fonts/Bahn_font/Bahn_font.yy",},},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},},
@@ -141,12 +142,12 @@
     {"id":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"DefeatMenu","path":"rooms/DefeatMenu/DefeatMenu.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
     {"roomId":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
     {"roomId":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
     {"roomId":{"name":"HelpMenu","path":"rooms/HelpMenu/HelpMenu.yy",},},
-    {"roomId":{"name":"DefeatMenu","path":"rooms/DefeatMenu/DefeatMenu.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
