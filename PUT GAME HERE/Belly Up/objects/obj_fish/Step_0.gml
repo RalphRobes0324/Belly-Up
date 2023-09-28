@@ -77,7 +77,7 @@ if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
 }
 
 /********************boot Collision**************/
-if(!is_hurt && place_meeting(x,y,obj_boot)){
+if(!is_hurt && place_meeting(x,y,obj_tire)){
 	audio_play_sound(snd_hurt, 0, false);
 	health--;
 	is_hurt = true;

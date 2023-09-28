@@ -16,7 +16,7 @@ var getX =  room_width + 50 + random_range(0,75);
 var getY = random_range(475, room_height - 50);  
 
 //Spawning random Items
-var puffer_fish = instance_create_layer(getX, getY, "Spawn", obj_boot);
+var puffer_fish = instance_create_layer(getX, getY, "Spawn", obj_tire);
 puffer_fish.speed = random_range(speedMin, speedMax); //different speed coming in
 puffer_fish.direction = 180; //Direction Horizontal
 
