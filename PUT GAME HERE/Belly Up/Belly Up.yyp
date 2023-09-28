@@ -187,10 +187,10 @@
     {"id":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"Level1Room","path":"rooms/Level1Room/Level1Room.yy",},},
     {"roomId":{"name":"Level2Room","path":"rooms/Level2Room/Level2Room.yy",},},
+    {"roomId":{"name":"Level3Room","path":"rooms/Level3Room/Level3Room.yy",},},
     {"roomId":{"name":"HelpMenu","path":"rooms/HelpMenu/HelpMenu.yy",},},
     {"roomId":{"name":"DefeatMenu","path":"rooms/DefeatMenu/DefeatMenu.yy",},},
     {"roomId":{"name":"VictoryMenuL1","path":"rooms/VictoryMenuL1/VictoryMenuL1.yy",},},
