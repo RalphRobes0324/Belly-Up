@@ -107,6 +107,7 @@
     {"name":"snd_hurt","order":3,"path":"sounds/snd_hurt/snd_hurt.yy",},
     {"name":"obj_displayTimeLevel1","order":1,"path":"objects/obj_displayTimeLevel1/obj_displayTimeLevel1.yy",},
     {"name":"spr_timer_show","order":11,"path":"sprites/spr_timer_show/spr_timer_show.yy",},
+    {"name":"spr_wallh","order":2,"path":"sprites/spr_wallh/spr_wallh.yy",},
     {"name":"spr_spawner","order":3,"path":"sprites/spr_spawner/spr_spawner.yy",},
     {"name":"obj_music_level1room","order":1,"path":"objects/obj_music_level1room/obj_music_level1room.yy",},
     {"name":"spr_btn_exit","order":3,"path":"sprites/spr_btn_exit/spr_btn_exit.yy",},

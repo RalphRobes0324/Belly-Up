@@ -141,6 +141,7 @@
     {"id":{"name":"snd_hurt","path":"sounds/snd_hurt/snd_hurt.yy",},},
     {"id":{"name":"obj_displayTimeLevel1","path":"objects/obj_displayTimeLevel1/obj_displayTimeLevel1.yy",},},
     {"id":{"name":"spr_timer_show","path":"sprites/spr_timer_show/spr_timer_show.yy",},},
+    {"id":{"name":"spr_wallh","path":"sprites/spr_wallh/spr_wallh.yy",},},
     {"id":{"name":"spr_spawner","path":"sprites/spr_spawner/spr_spawner.yy",},},
     {"id":{"name":"obj_music_level1room","path":"objects/obj_music_level1room/obj_music_level1room.yy",},},
     {"id":{"name":"spr_btn_exit","path":"sprites/spr_btn_exit/spr_btn_exit.yy",},},

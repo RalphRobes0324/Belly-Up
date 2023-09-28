@@ -54,7 +54,7 @@ if(place_meeting(x+hsp,y,obj_wall)){
 x = x + hsp;//This will move character horizontal
 
 
-/********************Vertical Collision**************/
+/********************Wall Collision**************/
 
 //Checks if with help of gamemaker function, players coord hits oWall (object you built)
 if(place_meeting(x,y+vsp,obj_wall)){
@@ -69,6 +69,7 @@ if(place_meeting(x,y+vsp,obj_wall)){
 }
 y = y + vsp;//This will move character vertical
 
+
 /********************Pufferfish Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
 	audio_play_sound(snd_hurt, 0, false);
@@ -76,7 +77,7 @@ if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
 	is_hurt = true;
 }
 
-/********************boot Collision**************/
+/********************tire Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_tire)){
 	audio_play_sound(snd_hurt, 0, false);
 	health--;
@@ -85,6 +86,13 @@ if(!is_hurt && place_meeting(x,y,obj_tire)){
 
 /********************Hook and reef Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_obstacle_ground)){
+	audio_play_sound(snd_hurt, 0, false);
+	health--;
+	is_hurt = true;
+}
+
+/********************tire Collision**************/
+if(!is_hurt && place_meeting(x,y,obj_obstacle_flood)){
 	audio_play_sound(snd_hurt, 0, false);
 	health--;
 	is_hurt = true;
