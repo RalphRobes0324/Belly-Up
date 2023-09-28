@@ -86,6 +86,7 @@
     {"name":"spr_spawner","order":3,"path":"sprites/spr_spawner/spr_spawner.yy",},
     {"name":"obj_music_level1room","order":1,"path":"objects/obj_music_level1room/obj_music_level1room.yy",},
     {"name":"spr_btn_exit","order":3,"path":"sprites/spr_btn_exit/spr_btn_exit.yy",},
+    {"name":"obj_btn_go_start","order":1,"path":"objects/obj_btn_go_start/obj_btn_go_start.yy",},
     {"name":"obj_obstacle_ground","order":3,"path":"objects/obj_obstacle_ground/obj_obstacle_ground.yy",},
     {"name":"obj_a","order":2,"path":"objects/obj_a/obj_a.yy",},
     {"name":"obj_btn_start","order":1,"path":"objects/obj_btn_start/obj_btn_start.yy",},

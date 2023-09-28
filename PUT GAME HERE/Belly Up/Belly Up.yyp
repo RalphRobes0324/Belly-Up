@@ -120,6 +120,7 @@
     {"id":{"name":"obj_music_level1room","path":"objects/obj_music_level1room/obj_music_level1room.yy",},},
     {"id":{"name":"spr_btn_exit","path":"sprites/spr_btn_exit/spr_btn_exit.yy",},},
     {"id":{"name":"spr_triggerBackWall","path":"sprites/spr_triggerBackWall/spr_triggerBackWall.yy",},},
+    {"id":{"name":"obj_btn_go_start","path":"objects/obj_btn_go_start/obj_btn_go_start.yy",},},
     {"id":{"name":"obj_obstacle_ground","path":"objects/obj_obstacle_ground/obj_obstacle_ground.yy",},},
     {"id":{"name":"obj_music_mainmenu","path":"objects/obj_music_mainmenu/obj_music_mainmenu.yy",},},
     {"id":{"name":"obj_a","path":"objects/obj_a/obj_a.yy",},},
