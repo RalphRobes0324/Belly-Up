@@ -20,7 +20,6 @@ if(is_hurtBackWall == true){
 	}
 }
 else if(is_hurt == true){
-	
 	is_hurt = false;
 	
 }
