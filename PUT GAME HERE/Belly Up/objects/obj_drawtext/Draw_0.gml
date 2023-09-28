@@ -8,3 +8,5 @@ draw_set_font(Bahn_font);
 draw_text(350,80,"Going up");
 draw_text(366,173,"Going left");
 draw_text(400,270,"Going Down");
+draw_text(400,370,"Going Right");
+draw_text(600,470,"Increase speed \n by one press");
