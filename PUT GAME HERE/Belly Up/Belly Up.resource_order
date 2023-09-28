@@ -33,6 +33,7 @@
     {"name":"Wall Sprites","order":18,"path":"folders/Sprites/Wall Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Menus","order":7,"path":"folders/Rooms/Menus.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_btn_quit","order":1,"path":"sprites/spr_btn_quit/spr_btn_quit.yy",},
