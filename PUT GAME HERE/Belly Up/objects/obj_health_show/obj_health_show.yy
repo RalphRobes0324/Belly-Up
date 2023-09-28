@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_title",
+  "name": "obj_health_show",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Help Menu",
+    "path": "folders/Objects/Buttons Objects/Help Menu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_title",
-    "path": "sprites/spr_title/spr_title.yy",
+    "name": "spr_show_health",
+    "path": "sprites/spr_show_health/spr_show_health.yy",
   },
   "spriteMaskId": null,
   "visible": true,

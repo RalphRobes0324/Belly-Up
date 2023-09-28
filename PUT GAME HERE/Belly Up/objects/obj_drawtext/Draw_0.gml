@@ -10,3 +10,5 @@ draw_text_color(366, 173, "Going left", c_white, c_white, c_white, c_white, 1);
 draw_text_color(400, 270, "Going Down", c_white, c_white, c_white, c_white, 1);
 draw_text_color(400, 370, "Going Right", c_white, c_white, c_white, c_white, 1);
 draw_text_color(600, 470, "Increase speed \n by one press", c_white, c_white, c_white, c_white, 1);
+draw_text_color(1050, 100, "Your health", c_white, c_white, c_white, c_white, 1);
+draw_text_color(1070, 260, "The Timer", c_white, c_white, c_white, c_white, 1);

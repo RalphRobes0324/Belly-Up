@@ -14,6 +14,8 @@
     {"name":"inst_5CF0C47A","path":"rooms/HelpMenu/HelpMenu.yy",},
     {"name":"inst_1B796B05","path":"rooms/HelpMenu/HelpMenu.yy",},
     {"name":"inst_298420AF","path":"rooms/HelpMenu/HelpMenu.yy",},
+    {"name":"inst_44AA7FEC","path":"rooms/HelpMenu/HelpMenu.yy",},
+    {"name":"inst_558FEF4A","path":"rooms/HelpMenu/HelpMenu.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -25,6 +27,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5CF0C47A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_space","path":"objects/obj_space/obj_space.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":3.0,"x":96.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1B796B05","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_btn_exit","path":"objects/obj_btn_exit/obj_btn_exit.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1056.0,"y":608.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_298420AF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_drawtext","path":"objects/obj_drawtext/obj_drawtext.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":-32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_44AA7FEC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_health_show","path":"objects/obj_health_show/obj_health_show.yy",},"properties":[],"rotation":0.46140075,"scaleX":0.80246913,"scaleY":0.73333335,"x":704.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_558FEF4A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_timer_show","path":"objects/obj_timer_show/obj_timer_show.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":608.0,"y":224.0,},
       ],"layers":[],"properties":[
         {"name":"g_OutlineColour","type":1,"value":"#FF000000",},
         {"name":"g_OutlineRadius","type":0,"value":"2",},

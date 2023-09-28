@@ -19,6 +19,5 @@ if (!(t_sec == 0 && t_min == 0 && t_min == 0)){
 	alarm[0] = 6;
 }else{
 	//When timer ends
-	game_end();
-	
+	room_goto(Level2Room);
 }
