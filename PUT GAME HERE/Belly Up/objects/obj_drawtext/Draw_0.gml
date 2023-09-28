@@ -4,9 +4,9 @@
 
 draw_set_halign(fa_center);
 draw_set_valign(fa_left);
-draw_set_font(Bahn_font);
-draw_text(350,80,"Going up");
-draw_text(366,173,"Going left");
-draw_text(400,270,"Going Down");
-draw_text(400,370,"Going Right");
-draw_text(600,470,"Increase speed \n by one press");
+draw_set_font(Default_Bahn_font);
+draw_text_color(350, 80, "Going Up", c_white, c_white, c_white, c_white, 1);
+draw_text_color(366, 173, "Going left", c_white, c_white, c_white, c_white, 1);
+draw_text_color(400, 270, "Going Down", c_white, c_white, c_white, c_white, 1);
+draw_text_color(400, 370, "Going Right", c_white, c_white, c_white, c_white, 1);
+draw_text_color(600, 470, "Increase speed \n by one press", c_white, c_white, c_white, c_white, 1);
