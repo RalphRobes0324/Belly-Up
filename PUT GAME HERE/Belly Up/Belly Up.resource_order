@@ -10,7 +10,7 @@
     {"name":"Help Menu","order":3,"path":"folders/Objects/Buttons Objects/Help Menu.yy",},
     {"name":"Main Menu","order":2,"path":"folders/Objects/Buttons Objects/Main Menu.yy",},
     {"name":"Display Objects","order":15,"path":"folders/Objects/Display Objects.yy",},
-    {"name":"Environment_and_Enemies Ojects","order":14,"path":"folders/Objects/Environment_and_Enemies Ojects.yy",},
+    {"name":"L1_Environment_and_Enemies Ojects","order":14,"path":"folders/Objects/L1_Environment_and_Enemies Ojects.yy",},
     {"name":"Music Objects","order":17,"path":"folders/Objects/Music Objects.yy",},
     {"name":"Other Objects","order":16,"path":"folders/Objects/Other Objects.yy",},
     {"name":"Player Objects","order":12,"path":"folders/Objects/Player Objects.yy",},
@@ -34,6 +34,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"Menus","order":7,"path":"folders/Rooms/Menus.yy",},
+    {"name":"L2_Environment_and_Enemies Ojects","order":18,"path":"folders/Objects/L2_Environment_and_Enemies Ojects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_btn_quit","order":1,"path":"sprites/spr_btn_quit/spr_btn_quit.yy",},

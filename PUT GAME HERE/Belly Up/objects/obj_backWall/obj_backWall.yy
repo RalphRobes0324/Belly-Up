@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Environment_and_Enemies Ojects",
-    "path": "folders/Objects/Environment_and_Enemies Ojects.yy",
+    "name": "L1_Environment_and_Enemies Ojects",
+    "path": "folders/Objects/L1_Environment_and_Enemies Ojects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
