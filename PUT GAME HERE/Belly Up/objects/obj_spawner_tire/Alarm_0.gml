@@ -5,14 +5,14 @@
 /****************Puffer Fish time****************/
 spawn--;
 if(spawn <= 0){
-	spawn  = 5;
+	spawn  = 2;
 	//speedMin += 1.5;
 	//speedMax += 2.5;
 }
 
 
-var getX =  room_width + 50 + random_range(0,75);
-var getY = random_range(475, room_height - 50);  
+var getX =   room_width + 50 + random_range(0,75);
+var getY =   random_range(475, room_height - 50);  
 
 //Spawning random Items
 var puffer_fish = instance_create_layer(getX, getY, "Spawn", obj_tire);
