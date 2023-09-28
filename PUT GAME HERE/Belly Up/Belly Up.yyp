@@ -65,7 +65,6 @@
     {"id":{"name":"spr_space","path":"sprites/spr_space/spr_space.yy",},},
     {"id":{"name":"spr_bg_mainmenu_far","path":"sprites/spr_bg_mainmenu_far/spr_bg_mainmenu_far.yy",},},
     {"id":{"name":"spr_s","path":"sprites/spr_s/spr_s.yy",},},
-    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"obj_drawtext","path":"objects/obj_drawtext/obj_drawtext.yy",},},
     {"id":{"name":"spr_pause_play","path":"sprites/spr_pause_play/spr_pause_play.yy",},},
     {"id":{"name":"spr_timer","path":"sprites/spr_timer/spr_timer.yy",},},

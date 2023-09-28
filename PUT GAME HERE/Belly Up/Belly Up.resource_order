@@ -44,7 +44,6 @@
     {"name":"spr_space","order":4,"path":"sprites/spr_space/spr_space.yy",},
     {"name":"spr_bg_mainmenu_far","order":1,"path":"sprites/spr_bg_mainmenu_far/spr_bg_mainmenu_far.yy",},
     {"name":"spr_s","order":1,"path":"sprites/spr_s/spr_s.yy",},
-    {"name":"Font3","order":2,"path":"fonts/Font3/Font3.yy",},
     {"name":"obj_drawtext","order":6,"path":"objects/obj_drawtext/obj_drawtext.yy",},
     {"name":"spr_pause_play","order":8,"path":"sprites/spr_pause_play/spr_pause_play.yy",},
     {"name":"spr_timer","order":5,"path":"sprites/spr_timer/spr_timer.yy",},
