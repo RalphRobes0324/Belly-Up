@@ -8,6 +8,7 @@ if(health <= 0){
 	
 	instance_destroy();
 	//game_restart();
+	room_goto(DefeatMenu);
 }
 
 

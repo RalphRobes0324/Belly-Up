@@ -20,4 +20,5 @@ if (!(t_sec == 0 && t_min == 0 && t_min == 0)){
 }else{
 	//When timer ends
 	game_end();
+	
 }
