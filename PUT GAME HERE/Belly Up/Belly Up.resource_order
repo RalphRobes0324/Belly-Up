@@ -106,6 +106,7 @@
     {"name":"obj_go_drawtext","order":2,"path":"objects/obj_go_drawtext/obj_go_drawtext.yy",},
     {"name":"obj_displayTimeLevel2","order":3,"path":"objects/obj_displayTimeLevel2/obj_displayTimeLevel2.yy",},
     {"name":"MainMenu","order":1,"path":"rooms/MainMenu/MainMenu.yy",},
+    {"name":"obj_nl_text","order":2,"path":"objects/obj_nl_text/obj_nl_text.yy",},
     {"name":"Sprite51","order":12,"path":"sprites/Sprite51/Sprite51.yy",},
     {"name":"obj_s","order":1,"path":"objects/obj_s/obj_s.yy",},
     {"name":"obj_d","order":3,"path":"objects/obj_d/obj_d.yy",},
