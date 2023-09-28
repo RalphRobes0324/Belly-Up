@@ -57,17 +57,27 @@ x = x + hsp;//This will move character horizontal
 /********************Wall Collision**************/
 
 //Checks if with help of gamemaker function, players coord hits oWall (object you built)
-if(place_meeting(x,y+vsp,obj_wall)){
+if(place_meeting(x,y+vsp,obj_wall) || place_meeting(x,y+vsp,obj_wallh)){
 	
-	
-	//While user hitting the wall, this will stop user going into the wall
-	while(!place_meeting(x,y+sign(vsp),obj_wall)){//This will stop/predecting player hitting the wall by moving player 3 pixel away from the
-		y = y + sign(vsp); //This will decrease or increase 
+	if(place_meeting(x,y+vsp,obj_wall)){
+		//While user hitting the wall, this will stop user going into the wall
+		while(!place_meeting(x,y+sign(vsp),obj_wall)){//This will stop/predecting player hitting the wall by moving player 3 pixel away from the
+			y = y + sign(vsp); //This will decrease or increase 
+		}
+		vsp = 0;
 	}
-	vsp = 0;
+	else if(place_meeting(x,y+vsp,obj_wallh)){
+		//While user hitting the wall, this will stop user going into the wall
+		while(!place_meeting(x,y+sign(vsp),obj_wallh)){//This will stop/predecting player hitting the wall by moving player 3 pixel away from the
+			y = y + sign(vsp); //This will decrease or increase 
+		}
+		vsp = 0;
+	}
 
 }
+
 y = y + vsp;//This will move character vertical
+
 
 
 /********************Pufferfish Collision**************/
