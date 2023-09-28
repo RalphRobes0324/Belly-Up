@@ -10,6 +10,7 @@ if(spawn <= 0){
 	//speedMax += 2.5;
 }
 
+
 var getX = room_width + 50 + random_range(0,75);
 var getY = random_range(40, room_height - 150);
 
