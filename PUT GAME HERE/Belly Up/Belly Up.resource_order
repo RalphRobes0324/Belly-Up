@@ -80,6 +80,7 @@
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Bahn_font","order":1,"path":"fonts/Bahn_font/Bahn_font.yy",},
     {"name":"spr_hook","order":4,"path":"sprites/spr_hook/spr_hook.yy",},
+    {"name":"snd_hurt","order":3,"path":"sounds/snd_hurt/snd_hurt.yy",},
     {"name":"obj_displayTimeLevel1","order":1,"path":"objects/obj_displayTimeLevel1/obj_displayTimeLevel1.yy",},
     {"name":"spr_spawner","order":3,"path":"sprites/spr_spawner/spr_spawner.yy",},
     {"name":"obj_music_level1room","order":1,"path":"objects/obj_music_level1room/obj_music_level1room.yy",},

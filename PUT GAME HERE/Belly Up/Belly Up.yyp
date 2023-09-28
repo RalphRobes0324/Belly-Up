@@ -113,6 +113,7 @@
     {"id":{"name":"Bahn_font","path":"fonts/Bahn_font/Bahn_font.yy",},},
     {"id":{"name":"spr_hook","path":"sprites/spr_hook/spr_hook.yy",},},
     {"id":{"name":"obj_clear","path":"objects/obj_clear/obj_clear.yy",},},
+    {"id":{"name":"snd_hurt","path":"sounds/snd_hurt/snd_hurt.yy",},},
     {"id":{"name":"obj_displayTimeLevel1","path":"objects/obj_displayTimeLevel1/obj_displayTimeLevel1.yy",},},
     {"id":{"name":"spr_spawner","path":"sprites/spr_spawner/spr_spawner.yy",},},
     {"id":{"name":"obj_music_level1room","path":"objects/obj_music_level1room/obj_music_level1room.yy",},},

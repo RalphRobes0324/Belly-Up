@@ -71,18 +71,21 @@ y = y + vsp;//This will move character vertical
 
 /********************Pufferfish Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_enemypufferfish)){
+	audio_play_sound(snd_hurt, 0, false);
 	health--;
 	is_hurt = true;
 }
 
 /********************Hook and reef Collision**************/
 if(!is_hurt && place_meeting(x,y,obj_obstacle_ground)){
+	audio_play_sound(snd_hurt, 0, false);
 	health--;
 	is_hurt = true;
 }
 
 /********************Backwall Collision**************/
 if(!is_hurtBackWall && place_meeting(x,y, obj_backWall)){
+	audio_play_sound(snd_hurt, 0, false);
 	health--;
 	is_hurtBackWall = true;
 	hsp = -hsp;
