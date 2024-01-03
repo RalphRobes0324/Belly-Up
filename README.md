@@ -23,3 +23,6 @@ Become a fish and survive in Belly Up, a new auto-runner survival game from Bell
 
 > GameMaker Studio 2
 
+# Game Available 
+1. **GX.games** : https://gx.games/games/p08j69/belly-up/
+
