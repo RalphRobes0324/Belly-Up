@@ -17,7 +17,7 @@ Become a fish and survive in Belly Up, a new auto-runner survival game from Bell
 
 # Music, Art, and Sound
 - Shark Design by Dylan D.
-- Sorry,  we will find the original creators of the Assets and will Credit them here
+- Sorry,  we will find the original creators of the other Assets (Music and Art) and will Credit them here
 
 # Game Engine
 
